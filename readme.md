@@ -36,14 +36,18 @@ Préparer un environnement technique reproductible en Python.
 
 Projet réalisé dans le cadre du Cycle Ingénieur Big Data.
 
+'''markdown
 Nom	
-Akle Kénan - Responsable technique : PoC, scoring, intégration API
-Da-Silva Hermila - Veille technique : Transformers & architectures IA
-Dedegbe Sarah - Données : préparation et nettoyage du dataset
-Kounou Modjisola - Rédaction & rapport
-Tiamiyou Safir	- Démo, interface & visualisation
+Akle Kénan         Responsable technique : PoC, scoring, intégration API
+Da-Silva Hermila   Veille technique : Transformers & architectures IA
+Dedegbe Sarah      Données : préparation et nettoyage du dataset
+Kounou Modjisola   Rédaction & rapport
+Tiamiyou Safir	   Démo, interface & visualisation
+'''
 
 ## Structure du dépôt
+
+ '''markdown
 credit-transformer-project/
 │
 ├── notebooks/                # Jupyter Notebooks d'analyse
@@ -68,6 +72,7 @@ credit-transformer-project/
 │
 ├── requirements.txt          # Dépendances Python
 └── README.md                 # Ce fichier
+'''
 
 
 ## Technologies utilisées
